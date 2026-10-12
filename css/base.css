@@ -686,11 +686,11 @@ a, i, .btn, button, img, span, .dropdown-item, .nav-link.dropdown-toggle::after,
 }
 
 .breadcrumb-item.active, .breadcrumb-item a:hover {
-  color: #FFC300;
+  color: #E6007E;
 }
 
 .breadcrumb-item + .breadcrumb-item:before {
-  color: #FFC300;
+  color: #E6007E;
   content: "\f054";
   font-family: 'Line Awesome Free';
   font-weight: 700;
